@@ -13,3 +13,4 @@ import os.path
 
 
 print("We're all set!")
+print("What are we doing")
