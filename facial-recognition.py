@@ -2,7 +2,7 @@ import tensorflow as tf
 import numpy as np
 import matplotlib as mlp
 import keras
-from keras.utils import get_file
+from keras.utils.data_utils import get_file
 import keras_vggface
 from keras_vggface.vggface import VGGFace
 import mtcnn
