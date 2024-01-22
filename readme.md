@@ -7,6 +7,8 @@ MTCNN stands as a cornerstone in facial detection, offering a robust and efficie
 
 ## Foundation model VGG16
 
+![alt text](https://github.com/RavindraB55/Facial-Recognition/blob/main/public_images/MTCNN.png?raw=true)
+
 
 
 
