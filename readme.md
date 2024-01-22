@@ -4,11 +4,9 @@ This project explores personalized facial recognition through minimal fine-tunin
 
 ## Facial Detection using MTCNN (Multi-task Cascaded Convolutional Networks)
 MTCNN stands as a cornerstone in facial detection, offering a robust and efficient solution for detecting faces within images. This multi-task framework simultaneously performs three essential tasks: face detection, landmark localization, and bounding box regression. The network consists of three cascaded stages, each specializing in refining and narrowing down potential face regions. The initial stage proposes candidate face regions, followed by subsequent stages that refine the results by eliminating false positives and precisely locating facial landmarks. MTCNN's ability to handle faces at different scales, poses, and orientations makes it a popular choice in computer vision applications, serving as a crucial prelude to subsequent facial recognition tasks.
-<p float="left">
 
-![alt text-1](https://github.com/RavindraB55/Facial-Recognition/blob/main/public_images/MTCNN.png?raw=true)
-![alt text-2](https://github.com/RavindraB55/Facial-Recognition/blob/main/public_images/sample_rav.png?raw=true)
-</p>
+
+![alt text-1](https://github.com/RavindraB55/Facial-Recognition/blob/main/public_images/MTCNN.png?raw=true) ![alt text-2](https://github.com/RavindraB55/Facial-Recognition/blob/main/public_images/sample_rav.png?raw=true)
 
 ## Foundation model VGG16
 
