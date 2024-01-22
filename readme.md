@@ -5,6 +5,7 @@ This project explores personalized facial recognition through minimal fine-tunin
 ## Facial Detection using MTCNN (Multi-task Cascaded Convolutional Networks)
 MTCNN stands as a cornerstone in facial detection, offering a robust and efficient solution for detecting faces within images. This multi-task framework simultaneously performs three essential tasks: face detection, landmark localization, and bounding box regression. The network consists of three cascaded stages, each specializing in refining and narrowing down potential face regions. The initial stage proposes candidate face regions, followed by subsequent stages that refine the results by eliminating false positives and precisely locating facial landmarks. MTCNN's ability to handle faces at different scales, poses, and orientations makes it a popular choice in computer vision applications, serving as a crucial prelude to subsequent facial recognition tasks.
 
+## Foundation model VGG16
 
 
 
